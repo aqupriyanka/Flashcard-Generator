@@ -1,0 +1,4 @@
+Statistics : The practice of collecting and analyzing data in large quantities
+Data : Values such as counts, ratings, measurements, or opinions that are gathered to answer questions
+Mean : A value that represents the "evening out" of the values in a set of data
+Median : The number that is the midpoint of a set of data
